@@ -4,7 +4,7 @@ published: true
 title: An Airbnb Exploration of New York City
 #image: img/posts/airbnb-nyc/times-square.png
 social-share: false
-#show-avatar: false
+show-avatar: false
 ---
 
 
