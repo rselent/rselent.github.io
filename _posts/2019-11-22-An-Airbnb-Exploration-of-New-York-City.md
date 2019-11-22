@@ -3,6 +3,7 @@ layout: post
 published: true
 title: An Airbnb Exploration of New York City
 image: img/posts/airbnb-nyc/times-square.png
+show-avatar: true
 ---
 
 
