@@ -54,15 +54,6 @@ Raw data like that wasn't enough. I went back to my dataset and eventually notic
 | -------------------: | ---------------------:| ---------------------:|
 |                 747  |                   81  |                   44  |
 
-~~~
-In []: (df1['minimum_nights'] > 30).value_counts()
-Out[]: True       747
-In []: (df1['minimum_nights'] > 180).value_counts()
-Out[]: True        81
-In []: (df1['minimum_nights'] > 360).value_counts()
-Out[]: True        44
-~~~
-
 This is actually _really interesting_, however. There are over 700 listings in the city that require _at least_ a 30-day rental period. I couldn't help but ask why. "_This seems really strange, what law are they trying to get around?_" I thought to myself. Turns out, there's a statewide law in New York that prevents rentals of less than 30 days in multi-family buildings of any kind -- which means it's _these_ orange dots that are lawful units, _especially_ in Manhattan. How many single-family buildings do you know of in Manhattan? I am _definitely_ suspicous of the 40+ listings that ask for a 365-day minimum stay, though.
 
 Likewise, I was also very suspicious of hosts that are listing more than 50 rentals _each_. Here's the top 10 host IDs, per properties listed:
@@ -86,6 +77,7 @@ I don't have an explanation for these guys (yet), except _maybe_ they're trying 
 Next time. 
 
 For now, I'll leave you with an image of the _new_(-ish), more pedestrian-friendly (and more awesome) Times Square.  
-This dataset and my notebook can both be found [here](../../../../lambda-buildweek1-airbnb).
 
 ![](../img/posts/airbnb-nyc/times-square.png)
+
+This dataset and my notebook can both be found [here](../../../../lambda-buildweek1-airbnb).
