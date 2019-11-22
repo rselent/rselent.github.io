@@ -5,6 +5,7 @@ title: An Airbnb Exploration of New York City
 image: img/posts/airbnb-nyc/times-square.png
 social-share: false
 #show-avatar: false
+author: Raymond Selent
 ---
 
 
@@ -16,6 +17,7 @@ I tried to make the best of it, expecting that my audience (or customers, client
 One of the very first interesting things I found was that the dataset had over 48,000 observations -- and that's in a city that only covers 302mi^2 (782km^2). That's over 158 Airbnb rental properties per mile^2 (or over 61 per km^2). If we look at that in map form, it looks a little something like this:
 
 ## CONTEXT VISUALIZATION (1st visualization)
+![](../img/posts/airbnb-nyc/context.png)
 
 If we remove the map from underneath all those datapoints, we'd still be able to clearly define all five Boroughs of New York City. That's insane. Here's a look at those 48,000 Airbnb rentals and how they're divided up between each Borough:
 
