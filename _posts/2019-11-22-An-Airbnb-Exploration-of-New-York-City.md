@@ -5,7 +5,6 @@ title: An Airbnb Exploration of New York City
 image: img/posts/airbnb-nyc/times-square.png
 social-share: false
 #show-avatar: false
-author: Raymond Selent
 ---
 
 
@@ -22,6 +21,7 @@ One of the very first interesting things I found was that the dataset had over 4
 If we remove the map from underneath all those datapoints, we'd still be able to clearly define all five Boroughs of New York City. That's insane. Here's a look at those 48,000 Airbnb rentals and how they're divided up between each Borough:
 
 ## POPULATION BARPLOT (3rd visualizations)
+![](../img/posts/airbnb-nyc/context-bars.png)
 
 I started to wonder, though. With over 48,000 possible places for someone to rent on any given day, surely many of these Airbnb rentals must be dirt cheap, right? Well, after a little exploration and data wrangling -- which, honestly, can feel like herding cats sometimes -- I had my answer...  
 (and a fancy graph or two, too!)
@@ -33,12 +33,14 @@ I started to wonder, though. With over 48,000 possible places for someone to ren
 You're probably thinking to yourself now, much like I was, "_Wait, there are Airbnb's available for $0 per night, and others for $10,000 per night???_" Like I said, this comes with some cool graphs, and this is kind of where it starts to get interesting:
 
 ## PRICE BOXPLOT (5th visualization)
+![](../img/posts/airbnb-nyc/price-bigbox.png)
 
 You'll probably notice that I capped the graph at ~$4,000. I did this to preserve readability in the sub-$500 range, where _most_ of the data is -- if I left it uncapped, the boxes would have just been flat lines, because remember: someone, somewhere, is paying $10,000 per night to stay somewhere in Manhattan. You can even see this discrepancy in the graph as it is. All the black dots are considered data (or prices) that fall outside the normal or most common range for that Borough and rental style, and the higher you go the less and less common they get.
 
 That's some good information to have for anyone thinking of maybe traveling to New York, but I wanted to go a little deeper, to get a closer look at this price data; surely there must be _something_ interesting there, right?
 
 ## PRICE STRIP PLOT (4th visualization)
+![](../img/posts/airbnb-nyc/price-strip.png)
 
 The first thing that jumped out at me when I was looking at the price data this way was that _whoa, 48,000 data points is just waaaay too much_, so I pared it down a bit by just taking a sample of 8,000 units -- any sample size much larger than that just turned Brooklyn, Manhattan, and Queens into solid colors, and that's just not helpful at all.  
 But looking at the data this way, shows some interesting phenomena:  
@@ -51,6 +53,7 @@ But looking at the data this way, shows some interesting phenomena:
 Raw data like that wasn't enough. I went back to my dataset and eventually noticed some things that just didn't look right to me, like rentals that had a minimum stay of 30 days, or host IDs that were associated with more than 30 listings each. This was data that I had originally discarded, thinking it was extraneous, or unimportant, or that there just wasn't anything _interesting_ there.
 
 ## >30 DAYS VISUALIZATION (2nd visualization)
+![](../img/posts/airbnb-nyc/30days.png)
 
 ## CODE SNIP df1['minimum_nights'] > 30
 
