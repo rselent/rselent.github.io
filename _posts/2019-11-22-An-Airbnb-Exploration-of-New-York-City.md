@@ -24,12 +24,13 @@ If we remove the map from underneath all those datapoints, we'd still be able to
 I started to wonder, though. With over 48,000 possible places for someone to rent on any given day, surely many of these Airbnb rentals must be dirt cheap, right? Well, after a little exploration and data wrangling -- which, honestly, can feel like herding cats sometimes -- I had my answer...  
 (and a fancy graph or two, too!)
 
+~~~
+In []: df1.price.min()  
+Out[]:     0.000000
 
-``In []: df1.price.min()``  
-``Out[]: 0.000000``
-
-``In []: df1.price.max()``  
-``Out[]: 10000.000000``
+In []: df1.price.max()  
+Out[]: 10000.000000
+~~~
 
 You're probably thinking to yourself now, much like I was, "_Wait, there are Airbnb's available for $0 per night, and others for $10,000 per night???_" Like I said, this comes with some cool graphs, and this is kind of where it starts to get interesting:
 
@@ -53,7 +54,14 @@ Raw data like that wasn't enough. I went back to my dataset and eventually notic
 
 ![](../img/posts/airbnb-nyc/30days.png)
 
-## CODE SNIP df1['minimum_nights'] > 30
+~~~
+In []: (df1['minimum_nights'] > 30).value_counts()
+Out[]: True       747
+In []: (df1['minimum_nights'] > 180).value_counts()
+Out[]: True        81
+In []: (df1['minimum_nights'] > 360).value_counts()
+Out[]: True        44
+~~~
 
 This is actually _really interesting_, however. There are over 700 listings in the city that require _at least_ a 30-day rental period. I couldn't help but ask why. "_This seems really strange, what law are they trying to get around?_" I thought to myself. Turns out, there's a statewide law in New York that prevents rentals of less than 30 days in multi-family buildings of any kind -- which means it's _these_ orange dots that are lawful units, _especially_ in Manhattan. How many single-family buildings do you know of in Manhattan? I am _definitely_ suspicous of the 40+ listings that ask for a 365-day minimum stay, though.
 
@@ -63,6 +71,8 @@ Likewise, I was also very suspicious of hosts that are listing more than 50 rent
 
 I don't have an explanation for these guys (yet), except _maybe_ they're trying to skirt property management laws, regulations, or fees by listing through Airbnb. I feel like I'm reaching with that, but it could be interesting to investigate. Time, however, is a finite thing. 
 
-Next time.
+Next time. 
+
+For now, I'll leave you with an image of the _new_, more pedestrian-friendly Times Square:
 
 ![](../img/posts/airbnb-nyc/times-square.png)
