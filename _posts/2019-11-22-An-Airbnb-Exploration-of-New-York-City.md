@@ -67,7 +67,19 @@ This is actually _really interesting_, however. There are over 700 listings in t
 
 Likewise, I was also very suspicious of hosts that are listing more than 50 rentals _each_. Here's the top 10 host IDs, per properties listed:
 
-## CODE SNIP df1[host_id'].value_counts()[:10]
+~~~
+In []: df1['host_id'].value_counts()[:10]
+Out[]:  219517861    327
+	107434423    232
+	30283594     121
+	137358866    103
+	12243051      96
+	16098958      96
+	61391963      91
+	22541573      87
+	200380610     65
+	7503643       52
+~~~
 
 I don't have an explanation for these guys (yet), except _maybe_ they're trying to skirt property management laws, regulations, or fees by listing through Airbnb. I feel like I'm reaching with that, but it could be interesting to investigate. Time, however, is a finite thing. 
 
