@@ -25,12 +25,11 @@ I started to wonder, though. With over 48,000 possible places for someone to ren
 (and a fancy graph or two, too!)
 
 
-In []: ``df1.price.min()``
-Out[]: ``0.000000``
+``In []: df1.price.min()``  
+``Out[]: 0.000000``
 
-In []: ``df1.price.max()``
-Out[]: ``10000.000000``
-~~~
+``In []: df1.price.max()``  
+``Out[]: 10000.000000``
 
 You're probably thinking to yourself now, much like I was, "_Wait, there are Airbnb's available for $0 per night, and others for $10,000 per night???_" Like I said, this comes with some cool graphs, and this is kind of where it starts to get interesting:
 
