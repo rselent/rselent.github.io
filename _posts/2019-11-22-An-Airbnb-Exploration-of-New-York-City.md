@@ -4,7 +4,7 @@ published: true
 title: An Airbnb Exploration of New York City
 image: img/posts/airbnb-nyc/times-square.png
 social-share: false
-show-avatar: true
+#show-avatar: false
 ---
 
 
@@ -58,15 +58,6 @@ Likewise, I was also very suspicious of hosts that are listing more than 50 rent
 
 ## CODE SNIP df1[host_id'].value_counts()[:10]
 
-I don't have an explanation for these guys (yet), except _maybe_ they're trying to skirt property management laws, regulations, or fees by listing through Airbnb. I feel like I'm reaching with that, but it could be interesting to investigate. Time, however, is a finite thing. Maybe next time.
+I don't have an explanation for these guys (yet), except _maybe_ they're trying to skirt property management laws, regulations, or fees by listing through Airbnb. I feel like I'm reaching with that, but it could be interesting to investigate. Time, however, is a finite thing. 
 
-
-
-
-
-
-
-
-
-
-
+Next time.
