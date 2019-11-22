@@ -15,9 +15,9 @@ I tried to make the best of it, expecting that my audience (or customers, client
 
 One of the very first interesting things I found was that the dataset had over 48,000 observations -- and that's in a city that only covers 302mi^2 (782km^2). That's over 158 Airbnb rental properties per mile^2 (or over 61 per km^2). If we look at that in map form, it looks a little something like this:
 
-<p align="center">![](../img/posts/airbnb-nyc/context.png)</p>
+![](../img/posts/airbnb-nyc/context.png)
 
-<p align="center">If we remove the map from underneath all those datapoints, we'd still be able to clearly define all five Boroughs of New York City. That's insane. Here's a look at those 48,000 Airbnb rentals and how they're divided up between each Borough:</p>
+If we remove the map from underneath all those datapoints, we'd still be able to clearly define all five Boroughs of New York City. That's insane. Here's a look at those 48,000 Airbnb rentals and how they're divided up between each Borough:
 
 ![](../img/posts/airbnb-nyc/context-bars.png)
 
@@ -61,3 +61,5 @@ Likewise, I was also very suspicious of hosts that are listing more than 50 rent
 I don't have an explanation for these guys (yet), except _maybe_ they're trying to skirt property management laws, regulations, or fees by listing through Airbnb. I feel like I'm reaching with that, but it could be interesting to investigate. Time, however, is a finite thing. 
 
 Next time.
+
+![](../img/posts/airbnb-nyc/times-square.png)
