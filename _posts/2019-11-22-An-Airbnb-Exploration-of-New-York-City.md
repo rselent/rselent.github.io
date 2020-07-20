@@ -80,4 +80,4 @@ For now, I'll leave you with an image of the _new_(-ish), more pedestrian-friend
 
 ![](../img/posts/airbnb-nyc/times-square.png)
 
-This dataset and my notebook can both be found [here](../../../../lambda-buildweek1-airbnb).
+This dataset and my notebook can both be found [here](https://github.com/rselent/lambda-buildweek1-airbnb).
