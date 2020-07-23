@@ -4,7 +4,9 @@ published: true
 title: An Airbnb Exploration of New York City
 cover-img: /assets/img/posts/airbnb-nyc/times-square-orig.png
 thumbnail-img: /assets/img/posts/airbnb-nyc/times-square.png
-social-share: false
+social-share: true
+gh-repo: rselent/lambda-buildweek1-airbnb
+gh-badge: [star, fork, follow]
 ---
 
 
@@ -74,10 +76,6 @@ Likewise, I was also very suspicious of hosts that are listing more than 50 rent
 
 I don't have an explanation for these guys (yet), except _maybe_ they're trying to skirt property management laws, regulations, or fees by listing through Airbnb. I feel like I'm reaching with those guesses, but it could definitely be an interesting avenue to investigate further. Time, however, is a finite thing. 
 
-Next time. 
+Next time.
 
-For now, I'll leave you with an image of the _new_(-ish), more pedestrian-friendly (and more awesome) Times Square.  
 
-![](../assets/img/posts/airbnb-nyc/times-square.png)
-
-This dataset and my notebook can both be found [here](https://github.com/rselent/lambda-buildweek1-airbnb).
