@@ -16,6 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "/assets/docs/rselent.pdf"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
