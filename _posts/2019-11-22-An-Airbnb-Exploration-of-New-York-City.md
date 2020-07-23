@@ -2,9 +2,9 @@
 layout: post
 published: true
 title: An Airbnb Exploration of New York City
+cover-img: /assets/img/posts/airbnb-nyc/times-square.png
 thumbnail-img: /assets/img/posts/airbnb-nyc/times-square.png
 social-share: false
-#show-avatar: false
 ---
 
 
@@ -15,11 +15,11 @@ I tried to make the best of it, expecting that my audience (or customers, client
 
 One of the very first interesting things I found was that the dataset had over 48,000 observations -- and that's in a city that only covers 302 square miles (782 square km). That's over 158 Airbnb rental properties per square mile (or over 61 per square km). If we look at that in map form, it looks a little something like this:
 
-![](/assets/img/posts/airbnb-nyc/context.png)
+![test](/assets/img/posts/airbnb-nyc/context.png)
 
 If we remove the map from underneath all those datapoints, we'd still be able to clearly define all five Boroughs of New York City. That's insane. Here's a look at those 48,000 Airbnb rentals and how they're divided up between each Borough:
 
-![](../assets/img/posts/airbnb-nyc/context-bars.png)
+![test2](../assets/img/posts/airbnb-nyc/context-bars.png)
 
 I started to wonder, though. With over 48,000 possible places for someone to rent on any given day, surely many of these Airbnb rentals must be dirt cheap, right? Well, after a little exploration and data wrangling -- which, honestly, can feel like herding cats sometimes -- I had my answer.  
 (And a fancy graph or two, too!)
