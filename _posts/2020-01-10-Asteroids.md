@@ -12,4 +12,4 @@ gh-badge: [star, fork, follow]
 ---
 
 
-Ever since the days of Tycho Brahe studying the distance of comets in the 16th century, or the 1898 discovery of the first-ever recorded Near-Earth Asteroid, 433 Eros, we've been captivated by and enamoured with what happens beyond the veil of our atmosphere.
+Ever since the days of Tycho Brahe studying the distance of comets in the 16th century, or the 1898 discovery of the first-ever recorded Near-Earth Asteroid, 433 Eros, we've been captivated by and enamoured with what happens beyond the veil of our atmosphere. We've been fearful of being smote by cosmic deities, forces, or even just the cosmos itself.
