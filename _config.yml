@@ -79,7 +79,7 @@ url-pretty: "rselent.github.io"
 link-tags: true
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 60
+excerpt_length: 52
 
 # --- Colours / background image --- #
 
