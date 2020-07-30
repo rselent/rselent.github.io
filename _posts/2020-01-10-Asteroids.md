@@ -24,5 +24,7 @@ On its surface, this new prediction seemed as dire as ever, miscalculated as it 
 
 That media frenzy and panic, however, demonstrated a need for much greater clarity and precision when communicating with the public about close passes of Near-Earth Objects (NEOs), according to NASA. 
 
-In 1998, NASA's Jet Propulsion Laboratory (JPL), based in Pasadena, California, created 
+#### Setup
+
+So, in 1998, NASA Headquarters requested that Jet Propulsion Laboratory (JPL), based in Pasadena, California, create a new office to specifically work with and catalogue data provided by the International Astronomical Union-sanctioned Minor Planet Center, and coordinate with academic institution observatories and US Air Force space surveillance assets. This office, the Near-Earth Object Program Office, was renamed in 2016 to the Center for Near-Earth Object Studies (CNEOS). And without this office, none of what you're about to read here could have happened, so I felt I should at least give some semblance of reverence or acknowledgment.
 
