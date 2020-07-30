@@ -20,11 +20,16 @@ Ever since the days of Tycho Brahe studying the distance of comets from Earth in
 According to NASA, an asteroid that has a diameter of just 140 meters (a little more than 1.5 football fields) is large enough to destroy an entire city; one with a diameter of over 1 kilometer (just under half of a mile) is capable of destroying *billions* of people on Earth, releasing over 100,000 megatons of energy on impact.  
 For comparison, the nuclear bombs dropped on Hiroshima and Nagasaki during World War II released only 36 *kilotons* (or *0.036 megatons*) of energy.
 
-On its surface, this new prediction seemed as dire as ever, miscalculated as it was. Within hours of the media breakout, its orbital prediction was refined and corrected to its now-known trajectory: passing Earth on 26 October 2028, at a distance of 0.0062au (930,000km, or about twice the distance to the moon), and at that distance it can be seen with a simple pair of binoculars.
+-----
+
+On its surface, this new prediction seemed as dire as ever, *miscalculated* as it was. Within hours of the media breakout, its orbital prediction was refined and corrected to its now-known trajectory: passing Earth on 26 October 2028, at a distance of 0.0062au (930,000km, or about twice the distance to the moon), and at that distance it can be seen with a simple pair of binoculars.
 
 That media frenzy and panic, however, demonstrated a need for much greater clarity and precision when communicating with the public about close passes of Near-Earth Objects (NEOs), according to NASA. 
 
-#### Setup
+So, in 1998, NASA Headquarters requested that Jet Propulsion Laboratory (JPL), based in Pasadena, California, create a new office to specifically work with and catalogue data provided by the International Astronomical Union-sanctioned Minor Planet Center, and coordinate with academic institution observatories and US Air Force space surveillance assets.  
+This office, the Near-Earth Object Program Office, was renamed in 2016 to the Center for Near-Earth Object Studies (CNEOS). And without this office, I doubt that any of what you're about to read here could have happened, so I felt I should at least give some semblance of deference or reverence, however minor.
 
-So, in 1998, NASA Headquarters requested that Jet Propulsion Laboratory (JPL), based in Pasadena, California, create a new office to specifically work with and catalogue data provided by the International Astronomical Union-sanctioned Minor Planet Center, and coordinate with academic institution observatories and US Air Force space surveillance assets. This office, the Near-Earth Object Program Office, was renamed in 2016 to the Center for Near-Earth Object Studies (CNEOS). And without this office, none of what you're about to read here could have happened, so I felt I should at least give some semblance of reverence or acknowledgment.
+#### Space is big
+
+
 
