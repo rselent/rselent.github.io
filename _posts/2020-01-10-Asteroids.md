@@ -5,8 +5,8 @@ title: Asteroids!
 subtitle: Can data science help identify life-threatening space rocks?
 thumbnail-img: assets/img/posts/asteroids/ast-thumb.png
 cover-img: 
-#  - "assets/img/posts/asteroids/ida-dactyl-cover.png" : "Asteroid Ida + moon Dactyl from 6,500 miles away"
-  - "assets/img/posts/asteroids/small-bodies.gif" : "test image"
+  - "assets/img/posts/asteroids/ida-dactyl-cover.png" : "Asteroid Ida + moon Dactyl from 6,500 miles away"
+#  - "assets/img/posts/asteroids/small-bodies.gif" : "test image"
 social-share: true
 gh-repo: rselent/lambda-buildweek2-asteroids
 gh-badge: [star, fork, follow]
