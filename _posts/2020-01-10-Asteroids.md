@@ -22,7 +22,8 @@ For comparison, the nuclear bombs dropped on Hiroshima and Nagasaki during World
 
 -----
 
-On its surface, this new prediction seemed as dire as ever, *miscalculated* as it was. Within hours of the media breakout, its orbital prediction was refined and corrected to its now-certain trajectory: passing Earth on 26 October 2028, at a distance of 0.0062au (930,000km, or about twice the distance to the moon).
+On its surface, this new prediction seemed as dire as ever, *miscalculated* as it was. Within hours of the media breakout, its orbital prediction was refined and corrected to its now-certain trajectory: passing Earth on 26 October 2028, at a distance of 0.0062 astronomical units (930,000km, or about twice the distance to the moon).  
+*1 astronomical unit (au) is equal to the mean distance between the Earth and the Sun.*
 
 That media frenzy and panic, however, demonstrated a need for much greater clarity and precision when communicating with the public about close passes of Near-Earth Objects (NEOs), according to NASA. Especially when they could see that their understanding of the solar system was only really just beginning to open up -- in the first 3 months of 1998 alone, over 40 Near-Earth Asteroids were discovered, approximately 75% of which were over that city-leveling 140m diameter size:
 
@@ -39,13 +40,10 @@ As an artist, as someone who has studied art most of their life, whenever I appr
 
 Wouldn't it be cool if I could create something that could literally help ***save the world??***
 
-
-
 ![](../assets/img/posts/asteroids/small-bodies.gif)
 
-Every one of those dots in the above animation has been identified as a Near-Earth Object in our solar system. An asteroid is classified as a Near-Earth Object if its closest distance to the Sun is, at any point, less than 1.3 astronomical units (au).  
-*1au is equal to the mean distance between the Earth and the Sun.*
+Every one of those dots in the above animation has been identified as a Near-Earth Object in our solar system. An asteroid or comet is classified as a Near-Earth Object if its closest distance to the Sun is, at any point, less than 1.3au.
 
 -----
 
-My previous project had an at-the-time whopping 50,000 observations, and I definitely wanted to top that. I discovered a dataset someone else had been working on, wherein they pulled data from JPL's Small-Body Database (created under the Near-Earth Object Program Office) and were trying to predict various features of asteroids. 
+My previous project had an at-the-time whopping 50,000 observations, and I definitely wanted to top that. I discovered a dataset that someone else had published, wherein they pulled data from JPL's Small-Body Database (created under the aforementioned Near-Earth Object Program Office) and were trying to predict various features of asteroids. 
