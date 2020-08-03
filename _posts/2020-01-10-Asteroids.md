@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+readtime: true
 title: Asteroids!
 subtitle: Can data science help identify life-threatening space rocks?
 thumbnail-img: assets/img/posts/asteroids/ast-thumb.png

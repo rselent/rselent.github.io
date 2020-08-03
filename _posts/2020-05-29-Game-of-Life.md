@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+readtime: true
 title: Game Development with Data Science?
 thumbnail-img: assets/img/posts/life/life-ggg-thumb.gif
 cover-img: assets/img/posts/life/life-cover.gif
