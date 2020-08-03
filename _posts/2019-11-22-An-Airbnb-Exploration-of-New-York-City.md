@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+readtime: true
 title: An Airbnb Exploration of New York City
 cover-img: /assets/img/posts/airbnb-nyc/times-square-orig.png
 thumbnail-img: /assets/img/posts/airbnb-nyc/times-square.png
