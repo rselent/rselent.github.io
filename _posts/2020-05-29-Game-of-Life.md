@@ -11,3 +11,18 @@ gh-badge: [star, fork, follow]
 ---
 
 
+under construction under construction under construction under construction under construction under construction  
+under construction under construction under construction under construction under construction under construction  
+under construction under construction under construction under construction under construction under construction  
+under construction under construction under construction under construction under construction under construction  
+under construction under construction under construction under construction under construction under construction  
+under construction under construction under construction under construction under construction under construction  
+under construction under construction under construction under construction under construction under construction  
+
+
+* different than other projects -- this is entirely cs-driven / game development
+* had to learn all about pyGame library, inside 2 days
+* ^that process
+* goals? were they met?
+* was it deployed? 
+* key takeaways
