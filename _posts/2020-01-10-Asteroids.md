@@ -50,3 +50,11 @@ Every one of those dots in the above animation has been identified as a Near-Ear
 My previous project had an at-the-time whopping 50,000 observations, and I definitely wanted to top that. I discovered a dataset that someone else had published, wherein they pulled data from JPL's Small-Body Database (created under the aforementioned Near-Earth Object Program Office) and were trying to predict various features of asteroids. 
 
 -----
+
+
+* build domain knowledge
+* clean / reduce features
+* unbalanced nature of data
+* models that were built (highlight feature reduction)
+* measuring those models
+* Deployment
