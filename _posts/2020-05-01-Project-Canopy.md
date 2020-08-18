@@ -17,15 +17,15 @@ test test test test test test test test test test test test test test
 test test test test test test test test test test test test test test  
 
 
-* UPER on steroids  
-* Understand project goal and build domain knowledge  
-* Plan development processes  
-* Execute on those plans  
+* UPER on steroids
+* Understand project goal and build domain knowledge
+* Plan development processes
+* Execute on those plans
 * Reflect, reassess, reattempt (struggles?)
-
-* how did we choose to get our data? why? what format was it in? structure?  
-* cleaning process? one big dataframe? separate frames?  
-* targets that we wanted to hit? predictions?  
-* did we build models to hit those targets?  
-* measuring those models  
+* --
+* how did we choose to get our data? why? what format was it in? structure?
+* cleaning process? one big dataframe? separate frames?
+* targets that we wanted to hit? predictions?
+* did we build models to hit those targets?
+* measuring those models
 * Deployment
