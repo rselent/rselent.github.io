@@ -18,7 +18,9 @@ Coming to data science with a background in performing arts like broadcasting an
 
 In my free time, I enjoy spending time with my dog, learning new songs on my bass guitar, exploring and appreciating nature with friends, traveling, and playing video games.
 
-### Current projects/obsessions?  
+-----
+
+### Any current projects/obsessions?  
 Absolutely! In addition to adding more content to this site from my journey here at Lambda School, I'm currently working on a project that aims to identify emoji inside scraped social media posts, even if that scraped data has been encoded outside the utf-8 standard, has incomplete emoji data, or both.
 
 ### Wait, that's it?  
