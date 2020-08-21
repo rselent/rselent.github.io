@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 readtime: true
 title: How Can Data Science Contribute to Conservation Efforts?
 cover-img: "/assets/img/posts/canopy/elephant-cover.png"
