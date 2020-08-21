@@ -9,7 +9,10 @@ You might have guessed it by now, but I am not, in fact, that handsome pupper en
 
 Ok, just had to clear that up.
 
-My name is Ray, I'm currently a data science student at _Lambda School_,  and I created this site as a means to chronicle and talk about my own journey as a data scientist: how I arrived at this wonderfully exciting confluence of disciplines, interesting projects that I create or contribute to, or perhaps even just as a memorable or easily bookmark-able location where you can find multiple avenues of contacting me.
+My name is Ray, I'm currently a data science student at _Lambda School_,  and I created this site as a means to chronicle and talk about my own journey as a data scientist: 
+* how I arrived at this wonderfully exciting confluence of disciplines, 
+* interesting projects that I create or contribute to, 
+* or perhaps even just as a memorable or easily bookmark-able location where you can find multiple avenues of contacting me. ;)
 
 Coming to data science with a background in performing arts like broadcasting and theatre, on top of my life-long technical abilities, means that I'm able to offer every project I work on (and person I work with) the potential for exceptionally unique and creative ways of analyzing and solving problems. Or a wicked Michael Buffer impression... I can offer that too, I guess...
 
