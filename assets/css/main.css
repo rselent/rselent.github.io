@@ -815,6 +815,7 @@ table tr td :last-child {
 --- */
 
 table {
+  border: 0px none;
   padding: 0;
 }
 table tr {
