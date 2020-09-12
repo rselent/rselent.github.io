@@ -5,12 +5,11 @@ subtitle: '"A data scientist is only as good as their data."'
 ---
 
 ### Hi there!  
-You might have guessed it by now, but I am not, in fact, that handsome pupper enshrined at the top of this page. He __is__ a _good boy,_ though.
-
-Ok, just had to clear that up!
 
 |&nbsp;|&nbsp;|
 |-----|-----|
+| You might have guessed it by now, but I am not, in fact, that handsome pupper enshrined at the top of this page. He __is__ a _good boy,_ though. | |
+| Ok, just had to clear that up! | |
 | My name is Ray, I'm currently a data science student at _Lambda School_, this probably isn't the best picture of me, and I created this site as a means to showcase interesting projects that I work on and chronicle and talk about my own journey as a data scientist: | <img src="https://rselent.github.io/assets/img/avatar-icon2.png" width="900"> |
 
 * how I arrived at this wonderfully exciting confluence of disciplines, 
