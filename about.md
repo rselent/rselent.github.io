@@ -11,7 +11,7 @@ Ok, just had to clear that up!
 
 |&nbsp;|&nbsp;|
 |-----|-----|
-| My name is Ray, I'm currently a data science student at _Lambda School_, this probably isn't the best picture of me, and I created this site as a means to showcase interesting projects that I work on and chronicle and talk about my own journey as a data scientist: | <img src="https://rselent.github.io/assets/img/avatar-icon2.png" width="1600"> |
+| My name is Ray, I'm currently a data science student at _Lambda School_, this probably isn't the best picture of me, and I created this site as a means to showcase interesting projects that I work on and chronicle and talk about my own journey as a data scientist: | <img src="https://rselent.github.io/assets/img/avatar-icon2.png" width="1200"> |
 
 * how I arrived at this wonderfully exciting confluence of disciplines, 
 * interesting projects that I create or contribute to, 
