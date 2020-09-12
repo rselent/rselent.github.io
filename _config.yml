@@ -43,7 +43,7 @@ social-network-links:
 #  facebook: yourname
   github: rselent
 #  twitter: yourname
-  rss: true
+  rss: false
 #  reddit: yourname
   linkedin: rselent
 #  xing: yourname
