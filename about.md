@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 subtitle: '"A data scientist is only as good as their data."'
 ---
 
