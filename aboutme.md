@@ -21,8 +21,8 @@ In my free time, I enjoy spending time with my dog, learning new songs on my bas
 -----
 
 ### Any current projects/obsessions?  
-Absolutely! In addition to adding more content to this site from my journey here at Lambda School, I'm currently working on a project that aims to identify emoji inside scraped social media posts, even if that scraped data has been encoded outside the utf-8 standard, has incomplete emoji data, or both.
+Absolutely! In addition to adding more content to this site from my journey here at Lambda School, I'm currently working on a project that aims to identify emoji inside scraped social media posts, even if that scraped data has been encoded outside the utf-8 standard, has incomplete emoji data, or both. Super interesting, right!? I thought so...
 
-### Wait, that's it?  
-Yeah, _that's it._ I mean, come on, this isn't supposed to be a __*biography,*__ right? Maybe that's something I can explore adding later, but until then, if you'd like to know more about me, feel free to contact me through my email, linkedin, or github links below!
+### So wait, that's it?  
+Yeah, _that's it._ I mean, come on, this isn't supposed to be a __*biography,*__ right? Maybe that's something I can explore adding later, but until then, if you'd like to know more about me, feel free to contact me through my email, linkedin, or github links found at the bottom of every page!
 
