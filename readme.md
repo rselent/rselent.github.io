@@ -1,1 +1,1 @@
-Test Repo for github-hosted portfolio site
+Repo for github-hosted portfolio site
